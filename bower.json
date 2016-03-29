@@ -1,0 +1,22 @@
+{
+  "name": "chess_move_generator",
+  "homepage": "https://github.com/Eochs/chess_move_generator",
+  "authors": [
+    "Eochs <slochastic@gmail.com>"
+  ],
+  "description": "outputs all legal chess moves for a game board",
+  "main": "test/index.html",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
