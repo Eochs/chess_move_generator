@@ -18,5 +18,11 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "mocha": "^2.4.5",
+    "chai": "^3.5.0",
+    "jquery": "^2.2.2",
+    "underscore": "^1.8.3"
+  }
 }
